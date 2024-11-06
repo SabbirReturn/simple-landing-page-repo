@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+}
+.background{
+    background-color:rgb(182, 176, 187);
+    height: 555px;
+    width: 1227px;
+    display: flex;
+}
+.title-description-part{
+    text-align: center;
+    width: 300px;
+    padding-top: 110px;
+    padding-left: 200px;
+    margin-right: 50px;
+}
+.title{
+    margin-bottom: 10px;
+}
+.first-btn{
+    background-color: rgb(188, 199, 195);
+    border-radius: 10px;
+    margin-top: 20px;
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+}
+.first-pic{
+    padding-top: 100px;
+    
+}
+.form{
+    background-color:rgb(182, 176, 187);
+    height: 555px;
+    width: 1227px;
+}
+.form-details{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+input{
+    border: 3px solid black;
+    border-radius: 10px;
+    height: 30px;
+    color: brown;
+}
